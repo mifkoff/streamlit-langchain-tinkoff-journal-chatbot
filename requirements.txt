@@ -1,0 +1,7 @@
+langchain==0.0.162
+numpy==1.24.4
+openai==0.27.7
+pandas==2.0.3
+pinecone-client @ git+https://git@github.com/pinecone-io/pinecone-python-client.git@e81807de685d08297ea4ad642639fbc0d0ab24fd
+streamlit==1.29.0
+watchdog==3.0.0
